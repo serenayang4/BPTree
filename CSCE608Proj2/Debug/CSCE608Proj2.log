@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\seren\source\repos\CSCE608Proj2\CSCE608Proj2\Source.cpp(166,33): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\seren\source\repos\CSCE608Proj2\CSCE608Proj2\Source.cpp(397,53): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\seren\source\repos\CSCE608Proj2\CSCE608Proj2\Source.cpp(415,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\seren\source\repos\CSCE608Proj2\CSCE608Proj2\Source.cpp(423,47): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\seren\source\repos\CSCE608Proj2\CSCE608Proj2\Source.cpp(425,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\seren\source\repos\CSCE608Proj2\CSCE608Proj2\Source.cpp(689,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\seren\source\repos\CSCE608Proj2\CSCE608Proj2\Source.cpp(699,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\seren\source\repos\CSCE608Proj2\CSCE608Proj2\Source.cpp(707,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\seren\source\repos\CSCE608Proj2\CSCE608Proj2\Source.cpp(709,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\seren\source\repos\CSCE608Proj2\CSCE608Proj2\Source.cpp(803,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\seren\source\repos\CSCE608Proj2\CSCE608Proj2\Source.cpp(142): warning C4715: 'BPTree::search': not all control paths return a value
+  CSCE608Proj2.vcxproj -> C:\Users\seren\source\repos\CSCE608Proj2\Debug\CSCE608Proj2.exe
